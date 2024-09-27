@@ -1,7 +1,3 @@
-
-Here’s an enhanced section for your GitHub profile that includes a "Tools" section:
-
-About Me
 👋 Hi, I’m Pranav Bhoir
 👀 Passionate about learning new technologies and improving my skills.
 🌱 Currently diving into MySQL and Python.
