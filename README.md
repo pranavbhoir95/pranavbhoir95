@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @pranavbhoir95
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning mysql,python
 
+Here’s an enhanced section for your GitHub profile that includes a "Tools" section:
+
+About Me
+👋 Hi, I’m Pranav Bhoir
+👀 Passionate about learning new technologies and improving my skills.
+🌱 Currently diving into MySQL and Python.
+
+Tools & Technologies
+Programming Languages: Python, SQL
+Databases: MySQL
+Data Visualization: Matplotlib, Seaborn
 
 <!---
 pranavbhoir95/pranavbhoir95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
