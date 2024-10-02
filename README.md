@@ -7,7 +7,9 @@
 
 Tools & Technologies
 
-Programming Languages: Python, SQL
+Programming Languages: Python
+
+RDBMS : SQL
 
 Databases: MySQL
 
